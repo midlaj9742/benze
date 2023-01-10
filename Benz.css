@@ -1,0 +1,395 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+
+}
+
+body{
+
+    margin: 0;
+    margin-top: 0;
+    background-color: black;
+    width: 100%;
+    color: #fff;
+    
+
+}
+
+.head{
+    width: 100%;
+    height: 200px;
+    background: black;
+    position: relative;
+    
+}
+.head h5{
+    color: #fff;
+    text-align: right;
+    margin-right: 50px;
+    position: relative;
+    font-size: 18px;
+    top: 10px;
+    right: 50px;
+}
+.head p{
+    color: #fff;
+    text-align: right;
+    margin-right: 50px;
+    position: relative;
+    right: 50px;
+    top: 10px;
+
+}
+.logo{
+    height: 50px;
+    width: 160px;
+    position: relative;
+    margin-top: 100px;
+    padding: 0 30px 10px;
+    cursor: pointer;
+}
+.head button{
+    color: #fff;
+    background: transparent;
+    border: 0;
+    padding: 10px 10px;
+    font-size: 18px;
+    position: relative;
+    bottom: 20px;
+    left: 200px;
+
+}
+.img1{
+    width: 100%;
+    height: 150vh;
+    background-image: url(images/Model-Hero-Image.jpg);
+    background-position: center;
+    
+
+}
+#imh{
+    width: 80%;
+    height:500px ;
+    color: #fff;
+    font-size: 80px;
+    font-family: Didot, serif;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+.contnt1{
+    background: black;
+    width: 100%;
+    height: 400px;
+    
+}
+.contnt1 img{
+    position: relative;
+    left: 550px;
+}
+
+.contnt2 img{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+.contnt3{
+    width: 100%;
+    height: 500px;
+    background: #fff;
+    margin-top :-5px;
+
+
+}
+.contnt3 h1{
+    width: 100%;
+    color: black;
+    text-align: justify;
+    margin-left: 100px;
+    padding-top: 180px;
+    padding-bottom: 20px;
+    line-height: 1cm;
+    font-size: 40px;
+}
+.contnt3 h4{
+    color: black;
+    text-align: justify;
+    margin-left: 110px;
+    line-height: 1.5cm;
+    font-size: 25px;
+}
+.contnt4{
+    width: 100%;
+    height: 350px;
+    background: black;
+
+
+}
+.contnt4 h4{
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    padding-top: 175px;
+    font-family: Didot, serif;
+    font-size: 80px;
+    font-weight: 1000;
+
+
+}
+.contnt5{
+    width: 100%;
+    height: auto;
+
+}
+.contnt6{
+    width: 100%;
+    height: 400px;
+}
+.contnt6 img{
+    position: relative;
+    padding-left:400px;
+    padding-top: 50px;
+}
+.contnt7{
+    width: 100%;
+    height: 700px;
+    background-image: url(images/Book-Test-Drive.jpg);
+
+
+}
+.formpad{
+    width: 700px;
+    height: 400px;
+    background:rgba(255,255,255,.88) ;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    padding: 70px;
+
+
+}
+.form1{
+    width: 50%;
+    height: 220px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+.form-control{
+    position: relative;
+    top: 35px;
+    border: 0;
+    left: -80px;
+    background: transparent;
+    padding: 30px;
+    text-decoration-line:underline;
+    
+}
+#phone{
+    position: relative;
+    left: -150px;
+}
+.form-group{
+    color: black;
+}
+.form2{
+    height: 220px;
+    width: 100%;
+    position: relative;
+    bottom: 220px;
+    left: 350px; 
+}
+#model{
+    position: relative;
+    left: -43px;
+    top: 40px;
+}
+.md{
+    position: relative;
+    top: 40px;
+}
+.form3{
+width: 100%;
+height: 100px;
+}
+.form-control1{
+    position: relative;
+    bottom: 250px;
+    left: 370px;
+    width: 20px;
+    height: 20px;
+}
+#cotnt{
+    width: 600px;
+    position: relative;
+    bottom: 240px;
+    left: 350px;
+}
+.form-group span{
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+}
+ .submit-btn{
+    width: 100%;
+    height: 200px;
+    
+ }
+ #submitBtn{
+   
+    min-width: 356px;
+    min-height: 96px;
+    border: 2px solid #d8e1ef;
+    background: 0 0;
+    color: #fff;
+    font-size: 30px;
+    padding: 10px 15px;
+    box-shadow: none;
+    border-radius: calc(96px / 2);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 40%;
+}
+.contnt8{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color: #232323;
+    justify-content: center;
+    align-items: center;
+}
+.col{
+    height: 50px;
+    float: left;
+    padding: 20px;
+    font-size: 40px;
+    text-decoration-line: none;
+   
+    
+    
+}
+.col span{
+    font-size: 18px;
+    color: #fff;
+}
+
+.eb-title{
+    position: relative;
+    padding-left:100px;
+    font-family: Didot, serif;
+
+}
+.know-more{
+    font-family: Didot, serif;
+    padding-right: 300px;
+}
+.footer{
+width: 100%;
+height: 1300px;
+background-image: url(images/Footer.jpg);
+background-position: center;
+display: flex;
+margin-top: 150px;
+
+}
+#loan{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    top: 900px;
+    left: 220px;
+    
+    
+}
+.foot{
+    width: 100%;
+    height: 200px;
+}
+.col{
+    width: 300px;
+}
+.col h4{
+    font-size: 30px;
+    font-family: Didot, serif ;
+    color: #fff;
+    text-decoration-line: none;
+}
+#lontxt{
+position: relative;
+top: 910px;
+left: 150px;
+}
+#pre-own{
+    position: relative;
+    top: 900px;
+    left: 250px;
+    height: 80px;
+}
+#pre-txt{
+position: relative;
+top: 910px;
+left: 210px;
+
+}
+#offr{
+    position: relative;
+    top: 900px;
+    left: 350px;
+    height: 70px;
+}
+#offr-txt{
+    position: relative;
+    top: 910px;
+    left: 310px;
+}
+#car{
+    position: relative;
+    top: 1110px;
+    right: 830px;
+    height: 120px;
+}
+#car-txt{
+    position: relative;
+    top: 1090px;
+    right: 850px;
+}
+#call{
+position: relative;
+top: 1050px;
+left: 600px;
+height: 70px;
+width: 70px;
+
+}
+#call-txt{
+    position: relative;
+    top: 1060px;
+    left: 520px;
+}
+#clcltr{
+    position: relative;
+    top: 1050px;
+    left: 700px;
+    height: 80px;
+    width: 70px;
+    /* position: fixed; */
+}
+#clcltr-txt{
+    position: relative;
+    top: 1050px;
+    left: 630px;
+}
+.foot img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 100px;
+    left: 550px;
+    padding: 10px;
+}
